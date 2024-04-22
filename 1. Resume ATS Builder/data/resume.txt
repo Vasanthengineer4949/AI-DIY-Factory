@@ -1,0 +1,58 @@
+
+Vasanth
+
+Profile:
+
+Detail-oriented and innovative Data Scientist with a specialization in Natural Language Processing (NLP) and Large Language Models (LLM). Excels in leveraging advanced machine learning techniques to derive actionable insights from textual data. Passionate about pushing the boundaries of NLP to solve real-world problems and drive business value.
+
+Professional Experience:
+
+Senior Data Scientist
+TechGenius AI, Silicon Valley
+July 2020 - Present
+
+Led a team of data scientists in developing cutting-edge NLP models, resulting in a X% improvement in accuracy over previous solutions.
+Implemented sentiment analysis and entity recognition algorithms to extract key insights from customer feedback, driving product improvements.
+Collaborated with software engineers to deploy NLP models into production systems, ensuring scalability and real-time performance.
+Conducted research into novel approaches to language modeling, including transformer-based architectures, to stay at the forefront of NLP advancements.
+Data Science Intern
+InnoData Corp, San Francisco
+May 2019 - August 2019
+
+Assisted in the development of a recommendation system using natural language processing techniques, resulting in a X% increase in user engagement.
+Conducted exploratory data analysis on large-scale text datasets to identify patterns and trends, informing business strategy.
+Contributed to the development of automated text summarization algorithms, reducing manual effort and improving efficiency.
+Education:
+
+Master of Science in Data Science
+Graduated: May 2020
+
+Bachelor of Science in Computer Science
+Graduated: May 2018
+
+Skills:
+
+Programming Languages: Python, R, SQL
+Machine Learning Libraries: TensorFlow, PyTorch, scikit-learn
+NLP Frameworks: NLTK, spaCy, Transformers
+Data Visualization: Matplotlib, Seaborn, Tableau
+Statistical Analysis: Hypothesis testing, Regression analysis
+Big Data Technologies: Hadoop, Spark
+Projects:
+
+Sentiment Analysis of Twitter Data
+Developed a sentiment analysis model using deep learning techniques to classify tweets as positive, negative, or neutral.
+Implemented a real-time dashboard to visualize sentiment trends over time, providing valuable insights for marketing campaigns.
+Topic Modeling of News Articles
+Applied Latent Dirichlet Allocation (LDA) to identify topics in a large corpus of news articles.
+Created an interactive web application to explore topic distributions and related articles, facilitating knowledge discovery.
+Named Entity Recognition for Legal Documents
+Built a named entity recognition (NER) model tailored to identify entities relevant to legal documents, such as laws, regulations, and organizations.
+Deployed the model as part of a document analysis pipeline, automating the extraction of key information for legal professionals.
+Certifications:
+
+Deep Learning Specialization (Coursera)
+Natural Language Processing with Deep Learning (Stanford University)
+Languages:
+
+Fluent in English and Spanish
