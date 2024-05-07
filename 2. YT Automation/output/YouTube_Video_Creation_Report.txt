@@ -1,0 +1,127 @@
+# YouTube Competition Research Table:
+- Video 1:
+    - Title: CrewAI Tutorial: Complete Crash Course for Beginners
+    - View Count: N/A
+    - Days Since Published: 86
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=sPzc6hMg7So)
+- Video 2:
+    - Title: CrewAI Step-by-Step | Complete Course for Beginners
+    - View Count: N/A
+    - Days Since Published: 38
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=kBXYFaZ0EN0)
+- Video 3:
+    - Title: CrewAI Tutorial for Beginners: Learn How To Use Latest CrewAI Features
+    - View Count: N/A
+    - Days Since Published: 71
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=Jl6BuoXcZPE)
+- Video 4:
+    - Title: CrewAI + Groq Tutorial: Crash Course for Beginners
+    - View Count: N/A
+    - Days Since Published: 30
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=8bAv5FQBD2M)
+- Video 5:
+    - Title: Let's Build: Automate ANYTHING With AI Agent Teams (Step-by-Step)
+    - View Count: N/A
+    - Days Since Published: 72
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=8R7QOJgGyIQ)
+- Video 6:
+    - Title: Fullstack NextJS & CrewAI Crash Course For Beginners [Source Code Included]
+    - View Count: N/A
+    - Days Since Published: 48
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=d8juNbo3onk)
+- Video 7:
+    - Title: LangGraph + CrewAI: Crash Course for Beginners [Source Code Included]
+    - View Count: N/A
+    - Days Since Published: 5
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=5eYg1OcHm5k)
+- Video 8:
+    - Title: I Automated My YouTube Channel With CrewAI [Free Source Code Included]
+    - View Count: N/A
+    - Days Since Published: 58
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=OumQe3zotGU)
+- Video 9:
+    - Title: AutoGen Tutorial 🚀 Create Custom AI Agents EASILY (Incredible)
+    - View Count: N/A
+    - Days Since Published: 216
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=vU2S6dVf79M)
+- Video 10:
+    - Title: How to Build an AI Document Chatbot in 10 Minutes
+    - View Count: N/A
+    - Days Since Published: 346
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=riXpu1tHzl0)
+- Video 11:
+    - Title: Mastering Agentic AI with CrewAI: Build Your Own AI-Powered Newsroom!
+    - View Count: N/A
+    - Days Since Published: 96
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=uJEpiBysTu0)
+- Video 12:
+    - Title: Autogen Crash Course: Building Your First Agentic AI with PyAutogen #autogen #tutorials
+    - View Count: N/A
+    - Days Since Published: 74
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=HuDY4zLdHkI)
+- Video 13:
+    - Title: Building Custom Tools and Agents with LangChain (gpt-3.5-turbo)
+    - View Count: N/A
+    - Days Since Published: 374
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=biS8G8x8DdA)
+- Video 14:
+    - Title: Best Programming Languages #programming #coding #javascript
+    - View Count: N/A
+    - Days Since Published: 371
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=5-oiLKEWIEw)
+- Video 15:
+    - Title: LangGraph Crash Course with code examples
+    - View Count: N/A
+    - Days Since Published: 102
+    - Channel Subscriber Count: N/A
+    - Video URL: [Watch Here](https://www.youtube.com/watch?v=PqS1kib7RTw)
+
+# Potential High CTRO Titles:
+- Unleash the Power of Crew AI: A Crash Course for Beginners
+- Embark on a Journey to Creating Your Own Agents with Crew AI
+- Master Crew AI: Beginner's Guide to Building Powerful Agents
+- Dive into the World of Crew AI: Build Your Own Agents Today!
+- Unlock Your Potential: Learn to Create Agents with Crew AI
+- The Ultimate Guide to Crew AI: Building Agents Made Easy
+- Create Your Own Path: Beginner's Crash Course on Crew AI Agents
+- Empower Yourself: Build Agents Like a Pro with Crew AI
+- From Novice to Expert: Mastering Crew AI Agent Creation
+- Level Up Your Skills: Beginner-Friendly Guide to Crew AI Agent Building
+
+# YouTube Video Description:
+
+🚀 Ready to dive into the exciting world of Crew AI? This crash course is designed for beginners looking to create their own powerful agents. Join us and unlock the secrets to building intelligent agents that can revolutionize your workflow. From basic concepts to advanced techniques, this guide has everything you need to get started on your AI journey. Don't miss out on this opportunity to unleash your creativity and build something extraordinary with Crew AI! 🌟
+
+🤖 Download the CrewAI Source Code Here:
+https://github.com/Vasanthengineer4949/AI-DIY-Factory
+
+Don't forget to Like and Subscribe if you're a fan of free source code 😉
+
+# Thumbnail idea:
+Create a high-resolution image that showcases a futuristic workspace with a computer screen displaying a colorful neural network diagram. The setting should be modern and sleek, with a mix of technology and creativity. Incorporate elements like glowing lights, digital interfaces, and a sense of innovation. The image should inspire curiosity and excitement about the possibilities of AI technology.
+
+# Relevant tags:
+- Crew AI
+- Agent Building
+- Beginner-Friendly
+- Artificial Intelligence
+- Neural Networks
+- Crash Course
+- Technology
+- Innovation
+- DIY Agents
+- AI Development

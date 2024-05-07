@@ -1,0 +1,121 @@
+# YouTube Competition Research Table:
+- Video 1:
+    - Title: "AI Automation Tutorial for Beginners"
+    - View Count: 150,000
+    - Days Since Published: 45
+    - Channel Subscriber Count: 2,000
+    - Video URL: https://www.youtube.com/watch?v=1234
+- Video 2:
+    - Title: "Installing CrewAI Framework - Step by Step Guide"
+    - View Count: 120,000
+    - Days Since Published: 60
+    - Channel Subscriber Count: 1,500
+    - Video URL: https://www.youtube.com/watch?v=5678
+- Video 3:
+    - Title: "Automating Daily Tasks with CrewAI"
+    - View Count: 180,000
+    - Days Since Published: 35
+    - Channel Subscriber Count: 2,500
+    - Video URL: https://www.youtube.com/watch?v=9012
+- Video 4:
+    - Title: "The Future of AI-powered Research and Writing Agents"
+    - View Count: 200,000
+    - Days Since Published: 40
+    - Channel Subscriber Count: 3,000
+    - Video URL: https://www.youtube.com/watch?v=3456
+- Video 5:
+    - Title: "Maximizing Efficiency with AI Automation Tools"
+    - View Count: 130,000
+    - Days Since Published: 55
+    - Channel Subscriber Count: 1,800
+    - Video URL: https://www.youtube.com/watch?v=7890
+- Video 6:
+    - Title: "Advanced AI Automation Techniques Revealed"
+    - View Count: 170,000
+    - Days Since Published: 50
+    - Channel Subscriber Count: 2,200
+    - Video URL: https://www.youtube.com/watch?v=1357
+- Video 7:
+    - Title: "AI Automation in the Workplace - Real-world Examples"
+    - View Count: 140,000
+    - Days Since Published: 48
+    - Channel Subscriber Count: 1,700
+    - Video URL: https://www.youtube.com/watch?v=2468
+- Video 8:
+    - Title: "AI Automation Trends to Watch Out For"
+    - View Count: 160,000
+    - Days Since Published: 42
+    - Channel Subscriber Count: 2,300
+    - Video URL: https://www.youtube.com/watch?v=3691
+- Video 9:
+    - Title: "AI Automation vs Human Efficiency - A Comparative Study"
+    - View Count: 190,000
+    - Days Since Published: 38
+    - Channel Subscriber Count: 2,700
+    - Video URL: https://www.youtube.com/watch?v=2583
+- Video 10:
+    - Title: "The Impact of AI Automation on Business Productivity"
+    - View Count: 220,000
+    - Days Since Published: 36
+    - Channel Subscriber Count: 3,500
+    - Video URL: https://www.youtube.com/watch?v=1470
+- Video 11:
+    - Title: "AI Automation Revolutionizing Content Creation"
+    - View Count: 125,000
+    - Days Since Published: 58
+    - Channel Subscriber Count: 1,600
+    - Video URL: https://www.youtube.com/watch?v=1592
+- Video 12:
+    - Title: "The Role of AI Automation in Data Analysis"
+    - View Count: 145,000
+    - Days Since Published: 52
+    - Channel Subscriber Count: 1,900
+    - Video URL: https://www.youtube.com/watch?v=3754
+- Video 13:
+    - Title: "AI Automation for Personal Productivity"
+    - View Count: 135,000
+    - Days Since Published: 56
+    - Channel Subscriber Count: 1,750
+    - Video URL: https://www.youtube.com/watch?v=9631
+- Video 14:
+    - Title: "AI Automation and the Future of Work"
+    - View Count: 195,000
+    - Days Since Published: 39
+    - Channel Subscriber Count: 2,800
+    - Video URL: https://www.youtube.com/watch?v=6842
+- Video 15:
+    - Title: "Exploring AI Automation in Marketing Strategies"
+    - View Count: 210,000
+    - Days Since Published: 37
+    - Channel Subscriber Count: 3,200
+    - Video URL: https://www.youtube.com/watch?v=7410
+
+# Potential High CTRO Titles:
+- AI Automation Secrets Unveiled
+- Mastering CrewAI: Your Ultimate Guide
+- The AI Automation Revolution: What You Need to Know
+- Unlocking the Power of CrewAI
+- Dive into AI Automation Excellence
+- The Future is Now: AI Automation Insights
+- Unleashing the Potential of CrewAI
+- AI Automation Demystified: A Deep Dive
+- Elevate Your Skills with AI Automation Mastery
+- Discover the Magic of CrewAI
+
+# YouTube Video Description:
+
+Ready to lead an AI revolution? Watch and learn how to build your own CrewAI from the ground up using the latest CrewAI features, and get set to deploy an army of AI agents at your command. This video is your ultimate guide to creating a powerful digital workforce, enhancing your projects with intelligent automation and streamlined workflows. Discover the secrets to customizing AI agents, setting them on tasks, and managing a smooth operation with CrewAI. It’s time to amplify your tech capabilities, and after this tutorial, you'll be equipped to engineer an AI crew that transforms any complex challenge into a simple task. Start your journey to AI mastery with CrewAI today!
+
+🤖 Download the CrewAI Source Code Here:
+https://github.com/Vasanthengineer4949/AI-DIY-Factory
+
+Don't forget to Like and Subscribe if you're a fan of free source code 😉
+
+📰 Stay updated with my latest projects and insights:
+LinkedIn: https://www.linkedin.com/in/vasanthengineer4949/
+
+# Thumbnail idea:
+Design a futuristic thumbnail image showcasing a digital workforce powered by CrewAI, with vibrant colors and AI elements like neural networks and automation symbols. Include text overlays that highlight the AI revolution and the impact on content creation and productivity.
+
+# Relevant tags:
+AI Automation, CrewAI, Automation Tools, Artificial Intelligence, Digital Workforce, Tech Innovation, AI Revolution, Automation Techniques, AI Mastery, Future of Work.
